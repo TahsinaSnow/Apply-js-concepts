@@ -1,8 +1,8 @@
 
-// const number = 4;
-// const remainder = number % 2;
-// console.log(remainder == 0);
-// console.log(number % 2 == 0);
+const number = 4;
+const remainder = number % 2;
+console.log(remainder == 0);
+console.log(number % 2 == 0);
 
 
 
